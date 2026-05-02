@@ -30,4 +30,4 @@ X -> a | b
 
 | Archivo | Descripción |
 |---|---|
-| `TP 2 Derivaciones.pdf` | Resolución completa del TP incluyendo árbol de derivación pertinente. |
+| `TP 2 Derivacion.pdf` | Resolución completa del TP incluyendo árbol de derivación pertinente. |
